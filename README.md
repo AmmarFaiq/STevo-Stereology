@@ -1,4 +1,4 @@
-# STevo-Stereology
+# STevo-Stereology (est. 2016)
 
 Small attempt for image volume estimation with stereology method using Image processing
 
