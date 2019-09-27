@@ -1,0 +1,38 @@
+﻿  MyForm.cpp
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1158): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1240): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1241): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1264): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1265): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1311): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1394): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1395): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1536): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1543): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1553): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2012\projects\stevo_1\stevo_1\MyForm.h(1559): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\opencv\build\include\opencv2\core\cvstd.hpp(592): warning C4793: 'cv::String::String' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(381): warning C4793: 'cv::Mat::Mat' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\hal\defs.h(372): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+  	Inline native assembly not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1703): warning C4793: 'cv::SparseMat::addref' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3304): warning C4793: 'cv::UMat::addref' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\hal\defs.h(480): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+  	Inline native assembly not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(565): warning C4793: 'cv::Mat::operator=' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+  	Found an intrinsic not supported in managed code
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+LINK : fatal error LNK1181: cannot open input file 'opencv_contrib246.lib'
